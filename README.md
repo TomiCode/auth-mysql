@@ -1,2 +1,3 @@
-# auth-mysql
-The module to authorize users through HTTP Basic Auth with Database connection.
+## auth-mysql
+-------------
+Clean and an easy way to authorize users using the HTTP Basic Auth method.
